@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Wiem Trifi</h1>
 # 💫 About Me:
 🔭 I’m currently working on data science project<br>
 
