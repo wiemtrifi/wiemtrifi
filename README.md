@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wiem Trifi</h1>
 <h2>💫 About Me:
-<h3> 🔭 I’m currently working on a data science project <h3> <br> 
+<h3> 🔭 I’m currently working on an AI project  <h3> <br> 
 
 
 ## 🌐 Socials:
