@@ -66,9 +66,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-<p align="center">
-  ![Visitors](https://img.shields.io/badge/Visitors-1234-blue)
-</p>
+
 ---
 
 
