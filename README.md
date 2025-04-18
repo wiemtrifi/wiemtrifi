@@ -67,7 +67,7 @@
 
 ---
 <p align="center">
-  ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=wiemtrifi&label=Profile%20Views&color=29bf12)
+  ![Visitors](https://img.shields.io/badge/Visitors-1234-blue)
 </p>
 ---
 
