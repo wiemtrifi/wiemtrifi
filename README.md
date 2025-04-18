@@ -66,7 +66,9 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-
+<p align="center">
+  ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=wiemtrifi&label=Profile%20Views&color=29bf12)
+</p>
 ---
 
 
