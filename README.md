@@ -67,8 +67,11 @@
 
 ---
 
+---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=wiemtrifi&label=Profile%20Views&color=6&icon=2&pretty=false" alt="visit counter"/>
+  ![Profile Views](https://komarev.com/ghpvc/?username=wiemtrifi&color=blueviolet&style=flat-square)
 </p>
+
 
 <!-- Designed with ❤️ -->
