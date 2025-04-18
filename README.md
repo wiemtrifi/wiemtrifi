@@ -66,9 +66,7 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ---
-<div>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=wiemtrifi)
-</div>
+
 ---
 
 
