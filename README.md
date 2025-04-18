@@ -4,7 +4,7 @@
 ---
 
 ### 💫 About Me
-- 🔭 I’m currently working on an exciting **React project**  
+- 🔭 I’m currently working on an exciting **React.js project**  
 - 🎓 I'm a **Computer Engineering graduate** specialized in **Data Science**  
 - 💡 I’m passionate about **Machine Learning**, **Web Development**, and **Intelligent Automation**  
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/wiemtrifi)  
