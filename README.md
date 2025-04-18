@@ -69,9 +69,7 @@
 
 ---
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=wiemtrifi&color=blueviolet&style=flat-square)
-</p>
+
 
 
 <!-- Designed with ❤️ -->
